@@ -1,9 +1,10 @@
 # Building a Java client to send OMF to PI or OCS
 
-**version:** 1.0.0.3-SNAPSHOT
-| OCS Test Status                                                                                                                                                                                                                                             | PI Test Status                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OMF/osisoft.sample-omf-basic_api-java?repoName=osisoft%2Fsample-omf-basic_api-java&branchName=master&jobName=Tests_OCS)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2636&repoName=osisoft%2Fsample-omf-basic_api-java&branchName=master) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OMF/osisoft.sample-omf-basic_api-java?repoName=osisoft%2Fsample-omf-basic_api-java&branchName=master&jobName=Tests_OnPrem)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2636&repoName=osisoft%2Fsample-omf-basic_api-java&branchName=master) |
+**Version:** 1.0.0.4-SNAPSHOT
+
+| OCS Test Status                                                                                                                                                                                                                                                                                                                                              | PI Test Status                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OMF/osisoft.sample-omf-basic_api-java?repoName=osisoft%2Fsample-omf-basic_api-java&branchName=main&jobName=Tests_OCS)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2636&repoName=osisoft%2Fsample-omf-basic_api-java&branchName=main) | [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/OMF/osisoft.sample-omf-basic_api-java?repoName=osisoft%2Fsample-omf-basic_api-java&branchName=main&jobName=Tests_OnPrem)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2636&repoName=osisoft%2Fsample-omf-basic_api-java&branchName=main) |
 
 The sample code in this topic demonstrates how to send OMF messages using Java.
 
@@ -102,6 +103,6 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 
 Tested against Maven 3.6.1 and Java 1.8.0_212.
 
-For the main OMF basic samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OMF/blob/master/docs/OMF_BASIC_README.md)
-For the main OMF samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples-OMF)  
-For the main OSIsoft samples page on master [ReadMe](https://github.com/osisoft/OSI-Samples)
+For the main OMF basic samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OMF/blob/main/docs/OMF_BASIC_README.md)
+For the main OMF samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OMF)  
+For the main OSIsoft samples page [ReadMe](https://github.com/osisoft/OSI-Samples)

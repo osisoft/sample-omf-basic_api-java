@@ -6,7 +6,7 @@
 
   <groupId>com.github.osisoft.omfapi</groupId>
   <artifactId>omfapijava</artifactId>
-  <version>1.0.0.3-SNAPSHOT</version>
+  <version>1.0.0.4-SNAPSHOT</version>
 
   <name>omfapijava</name>
   <!-- FIXME change it to the project's website -->
