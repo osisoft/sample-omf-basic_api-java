@@ -1,6 +1,6 @@
 # Building a Java client to send OMF to PI or OCS
 
-| :loudspeaker: **Notice**: This sample has been Archived.  Dependencies will not be updated and pipelines will not be run. Please contact samples@osisoft.com for assistance |
+| :loudspeaker: **Notice**: This sample has been Archived.  Dependencies will not be updated and pipelines will not be run. Please contact samples@osisoft.com or visit [The OSIsoft Feedback Site](https://feedback.osisoft.com/forums/922279-osisoft-github) for comments |
 | -----------------------------------------------------------------------------------------------|
 
 
