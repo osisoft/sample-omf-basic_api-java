@@ -1,5 +1,7 @@
 # Version History
 
+## ARCHIVED / 2021-06-15
+
 ## 1.0.0.4-SNAPSHOT / 2021-03-24
 
 - Updated pipeline to use internal agent pool
