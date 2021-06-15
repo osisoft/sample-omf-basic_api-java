@@ -1,5 +1,9 @@
 # Building a Java client to send OMF to PI or OCS
 
+| :loudspeaker: **Notice**: this sample has been archived.  Dependencies will not be updated and pipelines will not be run. Please contact samples@osisoft.com for assistance |
+| -----------------------------------------------------------------------------------------------|
+
+
 **Version:** 1.0.0.4-SNAPSHOT
 
 | OCS Test Status                                                                                                                                                                                                                                                                                                                                              | PI Test Status                                                                                                                                                                                                                                                                                                                                                  |
@@ -103,6 +107,6 @@ javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: 
 
 Tested against Maven 3.6.1 and Java 1.8.0_212.
 
-For the main OMF basic samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OMF/blob/main/docs/OMF_BASIC_README.md)
+For the main OMF basic samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OMF/blob/main/docs/OMF_BASIC_README.md)  
 For the main OMF samples page [ReadMe](https://github.com/osisoft/OSI-Samples-OMF)  
 For the main OSIsoft samples page [ReadMe](https://github.com/osisoft/OSI-Samples)
